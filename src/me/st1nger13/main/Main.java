@@ -8,5 +8,6 @@ public class Main
 	{
 		System.out.println("Hey, man!");
 		FileManager.test();
+		System.out.println("My string the best, St1nger13!");
 	}
 }
